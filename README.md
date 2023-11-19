@@ -54,6 +54,7 @@
 <p align="center">
   <a href="https://codeforces.com/profile/Anemi">
   <img src="https://badges.joonhyung.xyz/codeforces/Anemi.svg" />
+  </a>
 </p>
 
 ##
@@ -65,7 +66,9 @@
 
 <p align="center"> Gaming asylum (rarely playing :/): </p>
 <p align="center">
+  <a href="https://steamcommunity.com/id/Tintana/">
     <img src="https://steam-stat.vercel.app/api?profileName=Tintana" />
+  </a>
 </p>
 
 ##
