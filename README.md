@@ -63,4 +63,11 @@
 
 ##
 
+<p align="center"> Gaming asylum (rarely playing :/): </p>
+<p align="center">
+    <img src="https://steam-stat.vercel.app/api?profileName=Tintana" />
+</p>
+
+##
+
 <p align="center"> UNDER CONSTRUCTION </p>
