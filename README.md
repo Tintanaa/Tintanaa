@@ -58,7 +58,7 @@
 
 ##
 
-<p align="center"> Gonna make these stats much more better </p>
+<p align="center"> Gonna make these stats much better </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tintanaa&show_icons=true&theme=dark" alt="Tintanaa" />
 
 ##
