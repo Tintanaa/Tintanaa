@@ -48,7 +48,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=tintana" alt="LeetCode Badges"/>
+<img src="https://leetcard.jacoblin.cool/Tintana"/>
 </p>
 
 <p align="center">
