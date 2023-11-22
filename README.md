@@ -48,7 +48,9 @@
 </p>
 
 <p align="center"> 
-<img src="https://leetcard.jacoblin.cool/Tintana"/>
+  <a href="https://leetcode.com/tintana/">
+  <img src="https://leetcard.jacoblin.cool/Tintana"/>
+  </a>
 </p>
 
 <p align="center">
