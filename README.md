@@ -9,7 +9,7 @@
 
 ##
 
-<p align="center"> Skills for now: </p>
+<p align="center"> Skills: </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 
 ##
 
-<p align="center"> Learning for now (road to road=/): </p>
+<p align="center"> Fullstack roadmap routine: </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
