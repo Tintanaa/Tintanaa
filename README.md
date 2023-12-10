@@ -5,7 +5,7 @@
 
 <p align="center"> This is the asylum for everything related to ML/ programming/ 3D stuff </p>
 
-<p align="center"> Learning at: OMSTU, ПМФИ, 2 course :computer:, :heart:</p>
+<p align="center"> Learning at: OMSTU, ПМФИ, 2 course 🖥️, 🫀</p>
 
 ##
 
