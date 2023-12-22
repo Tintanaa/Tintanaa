@@ -66,4 +66,9 @@
 
 ##
 
-<p align="center"> UNDER CONSTRUCTION </p>
+
+<p align="center"> Interests: </p>
+1) 3D modelling
+2) UI/UX
+3) Deep Learning
+4) Text2mesh related neural networks 
