@@ -68,7 +68,8 @@
 
 
 <p align="center"> Interests: </p>
-- 3D modelling
+
 - UI/UX
-- Deep Learning
-- Text2mesh related neural networks 
+- 3D modelling
+- Deep Learning and Machine Learning
+- Text2mesh related neural networks
