@@ -3,43 +3,34 @@
 
 <p align="center">q! / Hello! </p>
 
-<p align="center"> This is the asylum for everything related to ML/ programming/ 3D stuff </p>
+<p align="center"> Asylum for everything related to ML, DL and NN </p>
 
 <p align="center"> Learning at: OMSTU, ПМФИ, 2 course 🖥️, 🫀</p>
 
 ##
 
-<p align="center"> Skills: </p>
+<p align="center"> Future ML Engineer routine: </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,au,ae,ai,ps,pr,visualstudio,vscode,figma,linux,github,gitlab&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,r,cs,docker,gcp,kafka,pytorch,tensorflow,matlab"/>
+  </a>
+</p>
+<p align="center"> + airflow </p>
+
+##
+
+<p align="center"> Skills not related to coding: </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,au,ae,ai,ps,pr&theme=dark" />
   </a>
 </p>
 
 ##
 
-<p align="center"> Fullstack roadmap routine: </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,docker,dotnet,gcp,gherkin,redis,nodejs,postgres,postman,react,fastapi,nginx&theme=dark" />
-  </a>
-</p>
-
-##
-
-<p align="center"> Machine Learning routine: </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab" />
-  </a>
-</p>
-
-##
-
-<p align="center"> CodeWars, Leetcode, Codeforces: </p>
+<p align="center"> Algorithms routine: </p>
 
 <p align="center">
   <a href="https://www.codewars.com">
