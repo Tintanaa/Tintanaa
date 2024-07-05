@@ -10,6 +10,10 @@
 <p align="center"> Future ML Engineer routine: </p>
 
 <p align="center">
+  <a href="https://wakatime.com/@ae63f514-740b-4f47-910d-d3c730a39e90"><img src="https://wakatime.com/badge/user/ae63f514-740b-4f47-910d-d3c730a39e90.svg" alt="Total time coded since Jul 5 2024" /></a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,cs,docker,gcp,kafka,pytorch,tensorflow,matlab"/>
   </a>
